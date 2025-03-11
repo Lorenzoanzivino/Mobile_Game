@@ -1,6 +1,6 @@
 # Mobile_Game
 
-## The jumping fox
+### The jumping fox
 
 App game per smartphone con l'utilizzo di GoDot
 
